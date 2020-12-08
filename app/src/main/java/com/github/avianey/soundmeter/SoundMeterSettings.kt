@@ -9,6 +9,7 @@ class SoundMeterSettings: AppCompatActivity() {
 
     companion object {
         const val SETTING_SPEED = "setting_speed"
+        const val SETTING_NOTIFY = "setting_notify"
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {

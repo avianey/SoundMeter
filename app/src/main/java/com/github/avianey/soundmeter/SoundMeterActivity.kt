@@ -22,8 +22,8 @@ class SoundMeterActivity: AppCompatActivity() {
         const val POPUP_DISPLAYED = "popupAlreadyDisplayed"
         const val TAG_PERMISSION_FRAGMENT = "permissionDialogFragment"
         const val REQUEST_CODE_PERMISSION = 1
-        const val LOCATION_UPDATE_MS = 10_000L
-        const val LOCATION_UPDATE_RADIUS = 100f
+        const val LOCATION_UPDATE_MS = 1_000L
+        const val LOCATION_UPDATE_RADIUS = 10f
     }
 
     private var popupAlreadyDisplayed = false

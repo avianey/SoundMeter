@@ -1,4 +1,6 @@
 <resources>
     <dimen name="logo_size">50dip</dimen>
+    <dimen name="margin">16dip</dimen>
+    <dimen name="graph_stroke_width">2dip</dimen>
 
 </resources>

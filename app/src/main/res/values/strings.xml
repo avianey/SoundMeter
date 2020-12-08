@@ -8,8 +8,9 @@
     <string name="location_template">lat : %1$s - lng : %2$s</string>
     <string name="speed_template">speed : %1$s m/s</string>
 
+    <string name="setting_notify">Enable notifications</string>
     <string name="setting_speed">Speed threshold</string>
-    <string name="setting_speed_summary">Vibrate when speed is reached</string>
+    <string name="setting_speed_summary">Notify when speed is reached</string>
 
     <string name="menu_settings">Open settings</string>
     <string name="btn_start">Start</string>

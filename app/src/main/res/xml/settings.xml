@@ -2,6 +2,11 @@
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
+    <SwitchPreference
+        android:key="setting_notify"
+        android:title="@string/setting_notify"
+        android:defaultValue="true"/>
+
     <SeekBarPreference
         android:key="setting_speed"
         app:min="@integer/speed_min"
